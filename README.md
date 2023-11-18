@@ -1,2 +1,2 @@
 # r-notebook
-This repository covers my self-learning notes on R.
+This repository covers my notes, worked examples and learnings on R programming.
